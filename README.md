@@ -21,3 +21,9 @@ and other useful usage information.
 To exit Micro, press Ctrl+Q. Note that this will close the current
 pane, and only close Micro if this is the last open pane. You can
 also press Ctrl+E and type `quit` to do the same thing.
+
+## Running shell commands
+
+To access the shell, either use Ctrl+B to run a single command or
+open the shell tool on the bottom left of the Replit editor, and
+then quit Micro. Once it quits, you should have a normal Bash shell.
