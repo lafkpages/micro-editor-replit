@@ -15,3 +15,9 @@ instead of opening a shell, open the console.
 If you ever need help with Micro, press Ctrl+G. This will
 popup a help markdown document, containing instructions
 and other useful usage information.
+
+## Closing Micro
+
+To exit Micro, press Ctrl+Q. Note that this will close the current
+pane, and only close Micro if this is the last open pane. You can
+also press Ctrl+E and type `quit` to do the same thing.
