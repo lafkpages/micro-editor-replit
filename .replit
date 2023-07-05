@@ -1,0 +1,7 @@
+run = ""
+
+[env]
+GIT_EDITOR="micro"
+
+[nix]
+channel = "stable-22_11"
